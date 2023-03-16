@@ -9,7 +9,7 @@ function App() {
           <h1 className="font-bold text-heading text-dark-navy leading-7 mb-4 text-center">
             Improve your front-end skills by building projects
           </h1>
-          <p className="text-body text-gray max-w-[256px] text-center">
+          <p className="text-body text-gray max-w-[256px] text-center leading-5">
             Scan the QR code to visit Frontend Mentor and take your coding
             skills to the next level
           </p>

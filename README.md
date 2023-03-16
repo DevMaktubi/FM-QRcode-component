@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-DaMnVUiQQy)
+- Live Site URL: [Vercel](https://fm-q-rcode-component.vercel.app/)
 
 ## My process
 
